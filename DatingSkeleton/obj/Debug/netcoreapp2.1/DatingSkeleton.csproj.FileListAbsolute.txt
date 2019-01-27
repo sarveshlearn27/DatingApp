@@ -1,0 +1,14 @@
+D:\Repo\DatingSkeleton\DatingSkeleton\bin\Debug\netcoreapp2.1\DatingSkeleton.deps.json
+D:\Repo\DatingSkeleton\DatingSkeleton\bin\Debug\netcoreapp2.1\DatingSkeleton.runtimeconfig.json
+D:\Repo\DatingSkeleton\DatingSkeleton\bin\Debug\netcoreapp2.1\DatingSkeleton.runtimeconfig.dev.json
+D:\Repo\DatingSkeleton\DatingSkeleton\bin\Debug\netcoreapp2.1\DatingSkeleton.dll
+D:\Repo\DatingSkeleton\DatingSkeleton\bin\Debug\netcoreapp2.1\DatingSkeleton.pdb
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.csprojAssemblyReference.cache
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.csproj.CoreCompileInputs.cache
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.RazorAssemblyInfo.cache
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.RazorAssemblyInfo.cs
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.AssemblyInfoInputs.cache
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.AssemblyInfo.cs
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.RazorTargetAssemblyInfo.cache
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.dll
+D:\Repo\DatingSkeleton\DatingSkeleton\obj\Debug\netcoreapp2.1\DatingSkeleton.pdb
